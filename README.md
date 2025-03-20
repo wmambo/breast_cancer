@@ -1,2 +1,2 @@
 # breast_cancer
-collaborative repo to work on predicting breast cancer
+Welcome. This is a collaborative repo to work on a project involving predicting breast cancer. 
